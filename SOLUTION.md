@@ -16,7 +16,7 @@ To see the solution in action, you'll have to do the following:
 
 ## Notes
 
-If you would like to analyze a custom log file you would have to edit the target in init.sh and re-run steps 2-4, and possibly remove the old cron job.
+If you would like to analyze a custom log file you would have to edit the target in `init.sh` and re-run steps 2-4, and possibly remove the old cron job.
 
 ## Explanation
 
