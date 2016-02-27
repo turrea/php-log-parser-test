@@ -5,6 +5,7 @@ The following was submitted as part of my solution:
 ## Instructions
 
 To see the solution in action, you'll have to do the following:
+
 1. run `tar -xvzf logparser.tgz` and [change to] the LogParser directory
 
 2. run `sh init.sh`, this will extract the `astlog.tgz` file and create a `crontab.txt` file
