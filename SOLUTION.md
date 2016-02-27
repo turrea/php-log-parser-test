@@ -1,9 +1,16 @@
+# Solution
+
+The following was submitted as part of my solution:
+
 ## Instructions
 
 To see the solution in action, you'll have to do the following:
 1. run `tar -xvzf logparser.tgz` and [change to] the LogParser directory
+
 2. run `sh init.sh`, this will extract the `astlog.tgz` file and create a `crontab.txt` file
+
 3. edit `emailConfigs` in `run.php` to send "registration_failed" emails to your email address of choice, there could be a better place for this (like a separate config file), but ran out of time
+
 4. run `crontab crontab.txt` to start cronjob
 
 ## Notes
